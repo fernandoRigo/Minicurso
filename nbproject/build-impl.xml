@@ -5,14 +5,7 @@
 
 For the purpose of easier reading the script
 is divided into following sections:
-
-  - initialization
-  - compilation
-  - jar
-  - execution
-  - debugging
-  - javadoc
-  - test compilation
+on
   - test execution
   - test debugging
   - applet
