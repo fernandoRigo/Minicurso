@@ -15,6 +15,6 @@ public class AppMinicurso1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("<<<<OI>>>>");
+        System.out.println("<<<<OI :P>>>>");
     }
 }
